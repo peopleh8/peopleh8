@@ -1,4 +1,5 @@
 <h1>Hi there👋</h1>
+Made with ❤️ and TypeScript.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
